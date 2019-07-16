@@ -13,7 +13,6 @@ export default function Home() {
         />
         <strong>Tenis legal que o título quebra em várias linhas</strong>
         <span>R$129,90</span>
-
         <button type="button">
           <div>
             <MdAddShoppingCart size={16} color="#FFF" /> 3
