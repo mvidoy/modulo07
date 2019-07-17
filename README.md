@@ -51,3 +51,7 @@ json-server server.json -p 3333
 yarn add redux react-redux
 
 yarn add reactotron-react-js reactotron-redux
+
+yarn add immer
+
+yarn add redux-saga
