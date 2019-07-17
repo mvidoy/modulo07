@@ -55,3 +55,5 @@ yarn add reactotron-react-js reactotron-redux
 yarn add immer
 
 yarn add redux-saga
+
+yarn add reactotron-redux-saga
