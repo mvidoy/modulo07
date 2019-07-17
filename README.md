@@ -44,5 +44,8 @@ yarn add json-server
 yarn add axios
 
 json-server server.json -p 3333
+"scripts": {
+"api:server": "json-server server.json -p 3333"
+}
 
 yarn add redux react-redux
