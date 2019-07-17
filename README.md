@@ -39,6 +39,10 @@ yarn add react-icons
 
 yarn add polished
 
+yarn add json-server
+
 yarn add axios
 
-yarn add prop-types
+json-server server.json -p 3333
+
+yarn add redux react-redux
