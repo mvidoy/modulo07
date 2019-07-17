@@ -57,3 +57,5 @@ yarn add immer
 yarn add redux-saga
 
 yarn add reactotron-redux-saga
+
+yarn add react-toastify
