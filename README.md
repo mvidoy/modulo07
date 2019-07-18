@@ -1,6 +1,6 @@
 Criando projeto do zero
 
-yarn create react-app modulo05
+yarn create react-app modulo07
 apagar o arquivo README.md
 deletar do package.json:
 "eslintConfig": {
@@ -61,3 +61,5 @@ yarn add reactotron-redux-saga
 yarn add react-toastify
 
 yarn add history
+
+yarn add eslint-plugin-react-hooks -D
